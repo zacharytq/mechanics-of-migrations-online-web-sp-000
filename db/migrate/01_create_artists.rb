@@ -7,4 +7,3 @@ class CreateArtists < ActiveRecord::Migration[5.2]
       t.string :hometown
     end
   end
-end
